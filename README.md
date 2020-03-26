@@ -1,5 +1,7 @@
 I didn't spend a ton of time writing this script but it does work.  
 
+This is tested with python3
+
 Required feilds are the following:
 
 
