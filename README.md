@@ -3,11 +3,11 @@ I didn't spend a ton of time writing this script but it does work.
 Required feilds are the following:
 
 
-search_criteria = 
+**search_criteria**
     
 *here you will enter the portion of the url related to what you are scrapping.  This part of the url begins with '/video' so we need to include the entire string that follows
     
-max_pages_to_crawl =
+**max_pages_to_crawl**
     
 *Just an integer of how many pages to scrape
     
